@@ -1,0 +1,12 @@
+local-servers.config
+.vscode/launch.json
+groupMembership.log
+GroupMembership/process-copy.txt
+LogQuerier/client/copy.config
+membership_data.csv
+mylog/00000000000000000001
+mylog/*
+Stream/Exec/*
+HyDfs/Files/HYDFS-Files/output.txt
+cs425
+.DS_Store
